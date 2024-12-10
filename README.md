@@ -233,8 +233,8 @@ Conflict resolution is handled interactively during merges.
 
 Author
 
-[Your Name]
-[Your Contact Information]
+[Wegulo Hillary]
+[wegulohillary@gmail.com]
 
 
 ---
